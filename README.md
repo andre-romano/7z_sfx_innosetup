@@ -7,6 +7,10 @@ SFX file to decompress data and autorun scripts after decompression
 1. Open `data.iss` in InnoSetup Compiler
 2. Compile it into ``data.exe`` file (SFX executable file)
 
+## Download SFX executable
+
+You can download the most recent compiled version in the [Releases](https://github.com/andre-romano/7z_sfx_innosetup/releases) page (in right side of this page).
+
 ## How to use
 
 1. Compress data into a `data.7z` file (using 7zip)
