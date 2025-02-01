@@ -14,7 +14,7 @@ DisableStartupPrompt=yes
 DisableFinishedPage=yes 
 DisableWelcomePage=yes  
 SourceDir=.
-OutputDir=.
+OutputDir=dist
 OutputBaseFilename=data
 
 

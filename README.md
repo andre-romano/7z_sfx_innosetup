@@ -4,10 +4,12 @@ SFX file to decompress data and autorun scripts after decompression
 
 ## Building SFX executable
 
-1. Open `data.iss` in InnoSetup Compiler
-2. Compile it into ``data.exe`` file (SFX executable file)
+Run the following in a CMD terminal:
+```batch
+call .\build.bat
+```
 
-## Download SFX executable
+## Download release
 
 You can download the most recent compiled version in the [Releases](https://github.com/andre-romano/7z_sfx_innosetup/releases) page (in right side of this page).
 
