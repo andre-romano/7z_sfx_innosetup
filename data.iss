@@ -19,7 +19,7 @@ OutputBaseFilename=data
 
 
 [Files]
-Source: "data/*"; DestDir: "{tmp}"; Flags: ignoreversion createallsubdirs recursesubdirs allowunsafefiles 
+Source: "lib/*"; DestDir: "{tmp}"; Flags: ignoreversion createallsubdirs recursesubdirs allowunsafefiles 
 
 [Run]
 ; Command to extract the .7z file using 7z and run the PowerShell script
